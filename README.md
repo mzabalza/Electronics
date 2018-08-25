@@ -1,4 +1,4 @@
-# Electronics-basics. PIC32 pin basic configurations
+# Electronics-basics. PIC32 pins configuration
 
 ### 0. TP0
 Created a new project and added a new .h containing typedefs for:
