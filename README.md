@@ -1,6 +1,6 @@
 # Electronics-basics. PIC32 pins configuration
 
-![Alt Text](Sujets/Sujets/Firmware/Schema-ProtoBoard.gif)
+![Alt Text](Electronics-basics/Sujets/Firmware/Schema-ProtoBoard.gif)
 
 ### 0. TP0
 Created a new project and added a new .h containing typedefs for:
