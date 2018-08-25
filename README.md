@@ -1,5 +1,4 @@
 # Electronics-basics. PIC32 pins configuration
-![](TEST_BOARD.png)
 ![](Sujets/Firmware/Protoboard.png)
 
 ### 0. TP0
@@ -24,3 +23,5 @@ to achieve a  "non-blocking", there is a main loop containing only one statement
 ## 4. TP4/ DIM of the LED
 The program does the same thing, but on a long press (> 2s) the LED goes into DIM mode, in 5s its intensity goes from 0 to 100% then from 100% to 0% (and so on).
 For that a PWM is coded on the GPIO which controls the LED.
+
+![](TEST_BOARD.png)
