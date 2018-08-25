@@ -16,9 +16,9 @@ Created a new project and added a new .h containing typedefs for:
 - Timer must be used to adjust the flashing speed
 
 ## 3. TP3/ Using interruptions
-Your code must now be "non-blocking", your main loop must contain only one statement: clear watchdog
-Blinking and button management must be done in an ISR.
+to achieve a  "non-blocking", there is a main loop containing only one statement:
+- Clear watchdog, Blinking and button management are activated in an ISR.
 
 ## 4. TP4/ DIM of the LED
-The program does the same thing, but on a long press (> 2s) the LED goes into DIM mode, in 5s its intensity goes from 0 to 100% then from 100% to 0% (and so on)
-For that you code in firmware a PWM on the GPIO which controls the LED.
+The program does the same thing, but on a long press (> 2s) the LED goes into DIM mode, in 5s its intensity goes from 0 to 100% then from 100% to 0% (and so on).
+For that a PWM is coded on the GPIO which controls the LED.
