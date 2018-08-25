@@ -1,5 +1,7 @@
 # Electronics-basics. PIC32 pins configuration
 
+![img1](Sujets/Sujets/Firmware/Schema-ProtoBoard.gif)
+
 ### 0. TP0
 Created a new project and added a new .h containing typedefs for:
 - u8, u16 and u32
