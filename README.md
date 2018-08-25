@@ -1,5 +1,5 @@
 # Electronics-basics. PIC32 pins configuration
-![](Electronics-basics/TEST_BOARD.png)
+![](TEST_BOARD.png)
 ![](Sujets/Firmware/Protoboard.png)
 
 ### 0. TP0
