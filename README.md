@@ -1,7 +1,7 @@
 # Electronics-basics
 
 ### 0. TP0
-Create a new project and add a new .h containing typedefs for:
+Created a new project and added a new .h containing typedefs for:
 - u8, u16 and u32
 - s8, s16 and s32
 
